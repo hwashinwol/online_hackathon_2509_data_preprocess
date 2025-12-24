@@ -20,3 +20,5 @@
 - **Python, Pandas** (데이터 정제)
 - **Pickle** (객체 직렬화)
 - **Sentence-Transformers** (벡터 임베딩)
+
+***모델링 코드를 포함하고 있지 않음***
